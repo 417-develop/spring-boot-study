@@ -1,4 +1,4 @@
-package jp.shiina.develop.api.SpringStudy;
+package jp.shiina.develop.api.springstudy;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
